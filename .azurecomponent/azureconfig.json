@@ -1,0 +1,18 @@
+{
+    "componentConfigs": [
+        {
+            "id": "05ac7994-3f18-20de-a1de-3fca6c8320b4",
+            "folder": "",
+            "name": "",
+            "dependencies": [],
+            "type": "IoTHub",
+            "componentInfo": {
+                "values": {
+                    "iotHubConnectionString": "HostName=ariotv2.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=1hwjJzu2t6lGq+GP018+8KukZGVeV9UxdhLD8yWdoQo=",
+                    "eventHubConnectionString": "Endpoint=sb://ihsuprodbyres109dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=1hwjJzu2t6lGq+GP018+8KukZGVeV9UxdhLD8yWdoQo=",
+                    "eventHubConnectionPath": "iothub-ehub-ariotv2-1982923-c24c7c5d81"
+                }
+            }
+        }
+    ]
+}
